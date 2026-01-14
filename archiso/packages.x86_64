@@ -164,9 +164,7 @@ git
 plymouth
 
 ## Xorg/Wayland
-xorg
-xorg-drivers
-xorg-fonts
+wayland
 
 ### Display Manager
 
